@@ -1,0 +1,4 @@
+MODEL_ROOT = 'model'
+
+INPUT_SHAPE = 224
+THRESHOLD = 0.4
